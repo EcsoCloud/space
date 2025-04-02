@@ -1,0 +1,16 @@
+{
+    "name": "Uptime Kuma",
+    "description": "A fancy self-hosted monitoring tool",
+    "maintainer": "dev@ecso.cloud",
+
+    "source": {
+        "url": "https://github.com/louislam/uptime-kuma",
+        "version": "2.0.0-beta.2",
+        "contact": "https://github.com/louislam"
+    },
+
+    "ecso": {
+        "version": "1.0.0",
+        "image": "https://ecso.space/software/uptime-kuma/dockerfile"
+    }
+}
